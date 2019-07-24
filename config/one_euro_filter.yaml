@@ -1,0 +1,6 @@
+# 1euro joystick filter
+1euro_filter:
+  enable: false
+  mincutoff: 1.0 # minimum cutoff frequency [Hz] (between 0 and 2)
+  beta: 1.0 # cutoff slope (between 0 and 3)
+  dcutoff: 1.0 # cutoff frequency for derivate [Hz]

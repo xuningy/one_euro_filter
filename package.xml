@@ -1,0 +1,11 @@
+<package>
+  <name>one_euro_filter</name>
+  <version>0.0.0</version>
+  <description>The one_euro_filter package</description>
+  <author email="xuningy@andrew.cmu.edu">Xuning Yang</author>
+  <maintainer email="xuningy@andrew.cmu.edu">Xuning Yang</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
