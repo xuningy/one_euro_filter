@@ -18,6 +18,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 #include <chrono>
 #include <cmath>
+#include <memory>
 #include <iostream>
 #include <stdexcept>
 
