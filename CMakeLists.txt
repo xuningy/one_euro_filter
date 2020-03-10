@@ -10,6 +10,8 @@ catkin_package(
   CATKIN_DEPENDS
 )
 
+catkin_python_setup()
+
 include_directories(include ${catkin_INCLUDE_DIRS})
 link_directories(${catkin_LIBRARY_DIRS})
 add_definitions(${catkin_DEFINITIONS})
